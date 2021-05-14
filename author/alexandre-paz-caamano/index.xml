@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre Paz Caamaño | Carlos Rodríguez Rellán</title>
+    <link>https://carlosrellan.github.io/author/alexandre-paz-caamano/</link>
+      <atom:link href="https://carlosrellan.github.io/author/alexandre-paz-caamano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandre Paz Caamaño</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alexandre Paz Caamaño</title>
+      <link>https://carlosrellan.github.io/author/alexandre-paz-caamano/</link>
+    </image>
+    
+    <item>
+      <title>¿Ecos del sur? Figuras de piedra en los megalitos del noroeste ibérico</title>
+      <link>https://carlosrellan.github.io/publication/my-md-folder/2020-01-01_fabregas_valcarce_ecos_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/my-md-folder/2020-01-01_fabregas_valcarce_ecos_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocupacións domésticas na Serra do Barbanza: Resultados preliminares</title>
+      <link>https://carlosrellan.github.io/publication/my-md-folder/2015-01-01_barbeito_pose_ocupacions_2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/my-md-folder/2015-01-01_barbeito_pose_ocupacions_2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

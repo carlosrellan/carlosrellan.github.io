@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susana Alonso Fernández | Carlos Rodríguez Rellán</title>
+    <link>https://carlosrellan.github.io/author/susana-alonso-fernandez/</link>
+      <atom:link href="https://carlosrellan.github.io/author/susana-alonso-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Susana Alonso Fernández</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Susana Alonso Fernández</title>
+      <link>https://carlosrellan.github.io/author/susana-alonso-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>Novos resultados das intervencións arqueolóxicas no Sur lucense: os xacementos paleolíticos da Depresión Monforte (Monforte de Lemos), Cova Eirós (Triacastela) e Valdavara (Becerreá)</title>
+      <link>https://carlosrellan.github.io/publication/my-md-folder/2009-01-01_fabregas_valcarce_novos_2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/my-md-folder/2009-01-01_fabregas_valcarce_novos_2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aportacións ó estudo da prehistoria da cunca media do Miño: os asentamentos en cova e ó aire libre</title>
+      <link>https://carlosrellan.github.io/publication/my-md-folder/2008-01-01_fabregas_valcarce_aportacions_2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/my-md-folder/2008-01-01_fabregas_valcarce_aportacions_2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuevos datos sobre el Paleolítico superior en Galicia: la Cueva de Valdavara (Becerreá, Lugo)</title>
+      <link>https://carlosrellan.github.io/publication/my-md-folder/2008-01-01_vaquero_rodriguez_nuevos_2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/my-md-folder/2008-01-01_vaquero_rodriguez_nuevos_2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

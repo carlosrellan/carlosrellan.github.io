@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Carrero-Pazos | Carlos Rodríguez Rellán</title>
+    <link>https://carlosrellan.github.io/author/miguel-carrero-pazos/</link>
+      <atom:link href="https://carlosrellan.github.io/author/miguel-carrero-pazos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel Carrero-Pazos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Miguel Carrero-Pazos</title>
+      <link>https://carlosrellan.github.io/author/miguel-carrero-pazos/</link>
+    </image>
+    
+    <item>
+      <title>Locational preferences and spatial arrangement in the barrow landscape of Serra do Barbanza (North-western Iberia)</title>
+      <link>https://carlosrellan.github.io/publication/my-md-folder/2020-01-01_carrero-pazos_locational_2020-1/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/my-md-folder/2020-01-01_carrero-pazos_locational_2020-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

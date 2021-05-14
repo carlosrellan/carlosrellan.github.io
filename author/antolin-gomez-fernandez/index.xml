@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antolín Gómez Fernández | Carlos Rodríguez Rellán</title>
+    <link>https://carlosrellan.github.io/author/antolin-gomez-fernandez/</link>
+      <atom:link href="https://carlosrellan.github.io/author/antolin-gomez-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antolín Gómez Fernández</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Antolín Gómez Fernández</title>
+      <link>https://carlosrellan.github.io/author/antolin-gomez-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>Descubertas de gravados rupestres na comarca de Deza: avance preliminar</title>
+      <link>https://carlosrellan.github.io/publication/my-md-folder/2005-01-01_fabregas_valcarce_descubertas_2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/my-md-folder/2005-01-01_fabregas_valcarce_descubertas_2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O Megalitismo da comarca do Deza. Resultados e perspectivas</title>
+      <link>https://carlosrellan.github.io/publication/my-md-folder/2004-01-01_fabregas_valcarce_o_2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/my-md-folder/2004-01-01_fabregas_valcarce_o_2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
