@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 publication: "*Trabajos de Prehistoria, 81* (2)"
 publication_short: ""
 
-abstract: .
+abstract:
 
 # Summary. An optional shortened abstract.
 summary: 
