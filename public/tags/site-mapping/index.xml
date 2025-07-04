@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Mapping | Carlos Rellan personal website</title>
+    <link>https://carlosrellan.github.io/tags/site-mapping/</link>
+      <atom:link href="https://carlosrellan.github.io/tags/site-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Site Mapping</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Site Mapping</title>
+      <link>https://carlosrellan.github.io/tags/site-mapping/</link>
+    </image>
+    
+    <item>
+      <title>The Role of Aerial Prospection for Monitoring and Preserving Cultural Heritage in Northeastern Africa</title>
+      <link>https://carlosrellan.github.io/publication/journal-article/2024_laguna/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/journal-article/2024_laguna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
