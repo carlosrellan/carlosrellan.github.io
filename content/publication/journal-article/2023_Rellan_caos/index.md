@@ -29,14 +29,6 @@ abstract: Las dificultades para determinar su número real, el material concreto
 summary: 
 
 tags:
-- redes espaciales
-- análisis espacial
-- variscita
-- calaíta
-- spatial networks
-- spatial analysis
-- variscite
-- callaïs
 featured: false
 
 # links:
