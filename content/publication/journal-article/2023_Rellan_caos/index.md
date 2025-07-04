@@ -39,7 +39,7 @@ tags:
 - variscite
 - callaïs
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
