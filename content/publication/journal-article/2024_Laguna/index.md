@@ -1,4 +1,3 @@
-
 ---
 title: "The Role of Aerial Prospection for Monitoring and Preserving Cultural Heritage in Northeastern Africa"
 authors:

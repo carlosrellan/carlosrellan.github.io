@@ -1,4 +1,3 @@
-
 ---
 title: "Desenredando el caos. Un análisis de la circulación de los adornos de piedra verde durante la Prehistoria Reciente de la Península Ibérica a través de la investigación de redes"
 authors:
@@ -38,7 +37,6 @@ tags:
 - spatial analysis
 - variscite
 - callaïs
-
 featured: false
 
 # links:
@@ -73,5 +71,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
