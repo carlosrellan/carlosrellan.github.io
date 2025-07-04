@@ -1,15 +1,28 @@
 ---
-title: "Desenredando el caos. Un análisis de la circulación de los adornos de piedra verde durante la Prehistoria Reciente de la Península Ibérica a través de la investigación de redes"
+title: "A multi-analytical study of the Montelirio beaded attires: Marine resources, sumptuary crafts, and female power in copper age Iberia"
 authors:
+- L. García Sanjuán 
+- S. Ramírez-Cuadrado
+- M. Díaz-Guardamino
+- J.A. Lozano
+- T. Donaire
+- J.A. Afonso
 - admin
-- Serge Cassen
-- António Faustino Carvalho
-- Mercedes Murillo Barroso
-- Ramón Fábregas Valcarce
+- V. Balsera
+- L.M. Cáceres
+- D.W. Wheatley
+- T. Earle
+- M. Cintas-Peña
+- J.M. Vargas
+- Á. Fernández
+- M. Luciañez
+- J. Cárdenas-Párraga
+- M. Martínez
+- F. Muñiz
 
 author_notes:
-date: "2023-12-29"
-doi: "https://doi.org/10.30827/cpag.v33i0.28274"
+date: "2025-01-29"
+doi: "10.1126/sciadv.adp1917"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-29"
@@ -20,22 +33,22 @@ publishDate: "2025-01-29"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cuadernos de Prehistoria y Arqueología de la Universidad de Granada, 33*"
+publication: "*Science Advances, 11* (5)"
 publication_short: ""
 
-abstract: Las dificultades para determinar su número real, el material concreto en el que fueron realizados o la cronología exacta de su deposición, hace de los objetos de adorno un campo de estudio enormemente complejo. Quizás por esta razón, buena parte de las aproximaciones anteriores a estos objetos se centraron en su caracterización y proveniencia así como en los patrones de consumo y su evolución a través de la Prehistoria. En este artículo analizamos un conjunto de piezas de adorno fabricadas en piedra verde fundamentalmente variscita) y otras materias primas recuperadas en yacimientos de la Península Ibérica cuya cronología va desde el Neolítico Antiguo hasta inicios de la Edad del Bronce. A partir de esta base de datos y empleando el análisis espacial y la investigación de redes, nos aproximaremos a las dinámicas de circulación e intercambio que hicieron posible que estos artefactos se distribuyeran por prácticamente todo el territorio peninsular.
+abstract: Excellent indicators of technology, social organization, exchange patterns, and even beliefs, beads are a topic of research in their own right. Findings made between 2010 and 2011 at the Montelirio tholos burial, part of the Valencina Copper Age mega-site, in south-western Spain, revealed what amounts to the largest single-burial ever-documented assemblage of beads. Furthermore, the Montelirio beads were part of unparalleled beaded attires worn by some of the people buried in the grave, mostly females. A multi-analytical study undertaken over the past 5 years —including a meticulous quantification of the collection, the characterization of the raw materials, radiocarbon dating and chronometric statistical modeling, morphometric analysis, phytolith analysis, experimental work and contextual analysis— reveals several previously unidentified aspects of these remarkable creations. This includes the role of the attires as sumptuary attributes heavily loaded of symbolism, used by a selected group of women of high social significance.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://revistaseug.ugr.es/index.php/cpag/article/view/28274
-url_cite: ''
+url_pdf: https://www.science.org/doi/10.1126/sciadv.adp1917
+url_cite: 'files/mi-cita.bib'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Fig. 5. Photograph by D.W.W.'
   focal_point: ""
   preview_only: false
 
@@ -63,5 +76,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
