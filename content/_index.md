@@ -15,9 +15,7 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+
     design:
       css_class: dark
       background:
@@ -35,11 +33,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am a specialist in the Late Prehistory of the Iberian Peninsula, with a particular focus on the analysis of material culture (specifically, knapped and polished lithic industries) of Neolithic and Chalcolithic communities. I have also conducted extensive research on Holocene rock art in the northwestern Iberian region. My work is characterized by the application of digital technologies —such as Geographic Information Systems (GIS), statistical analysis, and computational modeling— to address a range of archaeological questions.
     design:
       columns: '1'
   - block: collection
@@ -55,7 +49,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
