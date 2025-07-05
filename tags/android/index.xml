@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android | Carlos Rellan personal website</title>
+    <link>https://carlosrellan.github.io/tags/android/</link>
+      <atom:link href="https://carlosrellan.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <description>Android</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Android</title>
+      <link>https://carlosrellan.github.io/tags/android/</link>
+    </image>
+    
+    <item>
+      <title>Iroutes APP MOVIL</title>
+      <link>https://carlosrellan.github.io/apps/iroutes/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/apps/iroutes/</guid>
+      <description>&lt;p&gt;Iroutes is a App for Android which has been designed to facilitate the visit to archaeological sites (prehistoric burial mounds and ancient livestock huts) in the Serra de Barbanza (A Coruña, Galicia). Users will be able to walk several trails along which information will be provided on the different archaeological sites that can be visited.&lt;/p&gt;
+&lt;p&gt;This app is the result of the research carried out in the framework of the &amp;ldquo;Ocupación de las zonas altas del Noroeste peninsular a lo largo de la historia: la Sierra del Barbanza (A Coruña)&amp;rdquo; research project, funded by the Programa Estatal de Fomento de la Investigación Científica y Técnica de Excelencia, Subprograma Estatal de Generación de Conocimiento (HAR2015-67435-P).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

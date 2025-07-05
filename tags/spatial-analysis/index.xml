@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial Analysis | Carlos Rellan personal website</title>
+    <link>https://carlosrellan.github.io/tags/spatial-analysis/</link>
+      <atom:link href="https://carlosrellan.github.io/tags/spatial-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Spatial Analysis</title>
+      <link>https://carlosrellan.github.io/tags/spatial-analysis/</link>
+    </image>
+    
+    <item>
+      <title>ARPA</title>
+      <link>https://carlosrellan.github.io/project/arpa/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/project/arpa/</guid>
+      <description>&lt;p&gt;The ARPA project -&lt;strong&gt;Computational Analysis of exchange networks in Andalusian Late Prehistory&lt;/strong&gt;- (EMERGIA20_00349. 2022-2025) is funded by the Emergia Program, Plan Andaluz de Investigación, Desarrollo e Innovación de la Junta de Andalucía. It aims at fostering a substantial transformation in our understanding of the characteristics, functioning and evolution of the exchange networks that were operative in Southern Iberia between the Late Neolithic and the Copper Age (c. 4200 - 2200 cal. BC), as well as in our knowledge of the socioeconomic processes that explain their emergence and subsequent transformations.&lt;/p&gt;
+&lt;p&gt;To this end, we will analyze the distribution of a specific type of artifact –polished sillimanite axes- throughout the territory of the current Autonomous Community of Andalusia (Southern Spain). This study will be implemented through the application of powerful and innovative tools that take full advantage of the possibilities offered by a wide range of concepts and methodologies taken from disciplines as different as Computer Science, Network Analysis, Applied Statistics, Geographical Analysis, Geology and -of course- Archaeology.&lt;/p&gt;
+&lt;p&gt;Visit our &lt;a href=&#34;https://proyectos.ugr.es/arpa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt; or follow us on &lt;a href=&#34;https://twitter.com/ARPA_emergia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/ARPAproject&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/@proyectoarpa2835&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

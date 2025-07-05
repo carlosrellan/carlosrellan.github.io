@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuevas Tecnologías | Carlos Rellan personal website</title>
+    <link>https://carlosrellan.github.io/tags/nuevas-tecnologias/</link>
+      <atom:link href="https://carlosrellan.github.io/tags/nuevas-tecnologias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nuevas Tecnologías</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Nuevas Tecnologías</title>
+      <link>https://carlosrellan.github.io/tags/nuevas-tecnologias/</link>
+    </image>
+    
+    <item>
+      <title>Nuevas Tecnologías para la Difusión y Puesta en Valor del Patrimonio Arqueológico</title>
+      <link>https://carlosrellan.github.io/teaching/nntt/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/teaching/nntt/</guid>
+      <description>&lt;p&gt;Asignatura de cuarto curso del Grado en Arqueología de la Universidad de Granada.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://grados.ugr.es/ramas/artes-humanidades/grado-arqueologia/nuevas-tecnologias-la-difusion-y-puesta-valor-del-patrimonio-arqueologico&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; a la página de la asignatura en la web de la UGR.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/groups/6013819/nuevas_tecnologas_para_la_difusin_y_puesta_en_valor_del_patrimonio_arqueolgico_grado_ugr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; al grupo de Zotero con la bibliografía de la asignatura.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
