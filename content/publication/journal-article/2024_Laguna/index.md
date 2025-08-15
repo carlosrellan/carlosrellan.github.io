@@ -18,7 +18,7 @@ publishDate: "2024-01-29"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Heritage, 7* (5): 652-666"
+publication: "*Heritage, 7* (5)"
 publication_short: ""
 
 
@@ -32,7 +32,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.mdpi.com/2571-9408/7/2/32
+url_pdf: 'https://www.mdpi.com/2571-9408/7/2/32'
 url_cite: 'files/mi-cita.bib'
 url_code: ''
 url_dataset: ''
