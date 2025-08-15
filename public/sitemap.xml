@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://carlosrellan.github.io/publication_types/article-journal/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carlosrellan.github.io/publication/journal-article/2025_terradas/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carlosrellan.github.io/publication_types/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carlosrellan.github.io/publication/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carlosrellan.github.io/publication_types/chapter/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carlosrellan.github.io/publication/chapters/2025_oxbow/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://carlosrellan.github.io/teaching/gis/</loc>
     <lastmod>2025-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,27 +98,11 @@
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://carlosrellan.github.io/publication_types/article-journal/</loc>
-    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carlosrellan.github.io/publication_types/</loc>
-    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carlosrellan.github.io/publication/</loc>
-    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://carlosrellan.github.io/publication/journal-article/2024_archaedyn/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://carlosrellan.github.io/tags/alpine/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carlosrellan.github.io/publication_types/chapter/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,36 +130,8 @@
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://carlosrellan.github.io/tags/archaeological-heritage-management/</loc>
-    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carlosrellan.github.io/tags/gis/</loc>
-    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carlosrellan.github.io/tags/loud-&#43;-fair-principles/</loc>
-    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carlosrellan.github.io/tags/northeastern-africa/</loc>
-    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carlosrellan.github.io/tags/open-data/</loc>
-    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carlosrellan.github.io/tags/remote-sensing/</loc>
-    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carlosrellan.github.io/tags/site-mapping/</loc>
-    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://carlosrellan.github.io/publication/journal-article/2024_laguna/</loc>
-    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://carlosrellan.github.io/publication/journal-article/2023_caos/</loc>

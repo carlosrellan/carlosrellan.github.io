@@ -1,16 +1,16 @@
 ---
 title: "The Role of Aerial Prospection for Monitoring and Preserving Cultural Heritage in Northeastern Africa"
 authors:
-- David Laguna-Palma
-- Maurizio Toscano
+- D. Laguna-Palma
+- M. Toscano
 - admin
 
 author_notes:
-date: "2024-01-31"
-doi: "https://doi.org/10.3390/heritage7020032"
+date: "2024-01-29"
+doi: "10.3390/heritage7020032"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-29"
+publishDate: "2024-01-29"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,30 +18,22 @@ publishDate: "2025-01-29"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Heritage, 7* (2)"
+publication: "*Heritage, 7* (5): 652-666"
 publication_short: ""
 
-abstract: Anthropogenic and environmental processes present unique challenges for preserving cultural heritage in North Africa. Large parts of this region are characterised by unfavourable arid and semi-arid conditions and rapid changes to the landscapes caused by heightened regional development (e.g., urban expansion, road building, agricultural intensification, and socio-political conflicts). As a result, we are facing a fast-paced disappearance of heritage sites in regions that are still poorly understood. Following this, the utilisation of Earth observation data through aerial photographs and satellite imagery has emerged as an unmatched tool in the exploration of endangered archaeological heritage. Drawing on this context, this paper underscores the critical significance of incorporating digital research methods, such as remote sensing, GIS, or cartographic analysis, to ensure the evaluation and (digital) preservation of the historical sites along these vulnerable areas. Furthermore, our study seeks to provide new insights into data management and dissemination, fostering open research practices within North African archaeological research.
+
+abstract: Excellent indicators of technology, social organization, exchange patterns, and even beliefs, beads are a topic of research in their own right. Findings made between 2010 and 2011 at the Montelirio tholos burial, part of the Valencina Copper Age mega-site, in south-western Spain, revealed what amounts to the largest single-burial ever-documented assemblage of beads. Furthermore, the Montelirio beads were part of unparalleled beaded attires worn by some of the people buried in the grave, mostly females. A multi-analytical study undertaken over the past 5 years —including a meticulous quantification of the collection, the characterization of the raw materials, radiocarbon dating and chronometric statistical modeling, morphometric analysis, phytolith analysis, experimental work and contextual analysis— reveals several previously unidentified aspects of these remarkable creations. This includes the role of the attires as sumptuary attributes heavily loaded of symbolism, used by a selected group of women of high social significance.
 
 # Summary. An optional shortened abstract.
 summary: 
-
 tags:
-- remote sensing
-- site mapping
-- GIS
-- archaeological heritage management
-- LOUD + FAIR principles
-- open data
-- northeastern Africa
-
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: https://www.mdpi.com/2571-9408/7/2/32
-url_cite: ''
+url_cite: 'files/mi-cita.bib'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 5. Map of the Marmarica region displaying the sites documented within the framework of the PERAIA project, categorized according to their “Level of Risk”.'
   focal_point: ""
   preview_only: false
 

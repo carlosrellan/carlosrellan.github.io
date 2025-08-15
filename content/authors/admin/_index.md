@@ -14,7 +14,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: EMERGIA scholar
+role: Associate Professor of Prehistory
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,13 +50,13 @@ interests:
 education:
   - area: PhD in Prehistory
     institution: Universidade de Santiago de Compostela
-    date_end: 2010
+    date_end: 2010-05-10
   - area: MA in Archaeology
     institution: Universidade de Santiago de Compostela
-    date_end: 2006
+    date_end: 2006-04-11
   - area: BA in History
     institution: Universidade de Santiago de Compostela
-    date_end: 2002
+    date_end: 2002-10-15
 
 work:
   - position: EMERGIA Scholar
@@ -64,7 +64,7 @@ work:
     company_url: 'https://www.ugr.es'
     company_logo: 'assets/media/icons/ugr_logo.svg'
     date_start: 2021-09-02
-    date_end: ''
+    date_end: 2025-07-22
   - position: Professor Auxiliar Convidado
     company_name: Universidade NOVA de Lisboa
     company_url: 'https://www.unl.pt'
@@ -115,6 +115,6 @@ skills:
 
 ## About Me
 
-I am an Emergia Fellow (Junta de Andalucía) at Facultad de Filosofía y Letras, Universidad de Granada (Spain) and PI of the <strong>[Project ARPA](https://proyectos.ugr.es/arpa/)</strong> (<em>"Computational Analysis of exchange networks in Andalusian Late Prehistory"</em>) and the <strong>ANDALUSIL project</strong> (<em>"Procurement strategies and production processes of sillimanite polished tools during the Late Prehistory of Andalusia"</em>).
+I am Associate Professor of Prehistory at the Facultad de Filosofía y Letras, <strong>[Universidad de Granada](https://www.ugr.es)</strong> (Spain) and PI of the <strong>[Project ARPA](https://proyectos.ugr.es/arpa/)</strong> (<em>"Computational Analysis of exchange networks in Andalusian Late Prehistory"</em>) and the <strong>ANDALUSIL project</strong> (<em>"Procurement strategies and production processes of sillimanite polished tools during the Late Prehistory of Andalusia"</em>).
 
-My research interests deal with the study of polished and knapped lithic industries. Furthermore, I am also interested on the analysis of long distance networks during Late Prehistory and on prehistoric open-air rock art.
+My research interests focus on the study of polished and knapped lithic industries. I am also interested in the analysis of long-distance exchange networks during Late Prehistory, as well as in prehistoric open-air rock art.
