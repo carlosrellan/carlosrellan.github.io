@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Carlos Rellan personal website</title>
+    <link>https://carlosrellan.github.io/publication/</link>
+      <atom:link href="https://carlosrellan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Publications</title>
+      <link>https://carlosrellan.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Mining tools from the prehistoric quarries in Serra Llarga (NE Iberia): Preliminary results from lithological and techno-morphological approaches</title>
+      <link>https://carlosrellan.github.io/publication/journal-article/2025_terradas/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/journal-article/2025_terradas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connections with other populations in the Iberian Peninsula</title>
+      <link>https://carlosrellan.github.io/publication/chapters/2025_oxbow/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/chapters/2025_oxbow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-analytical study of the Montelirio beaded attires: Marine resources, sumptuary crafts, and female power in copper age Iberia</title>
+      <link>https://carlosrellan.github.io/publication/journal-article/2025_garcia/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/journal-article/2025_garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recensión de / Review of: Estelle Gauthier, Murielle Georges-Leroy, Nicolas Poirier y Olivier Weller (Dirs.). ARCHAEDYN: dynamique spatiale des territoires de la Préhistoire au Moyen Âge, Vol. 1. Les cahiers de la MSHE Ledoux 15, Presses universitaires de Franche-Comté. Besançon, 2022, 346 pp. ISBN: 978-2-84867-845-0 (edición impresa), 978-2-84867-946-4 (edición electrónica). DOI: https://doi.org/10.4000/books.pufc.46572</title>
+      <link>https://carlosrellan.github.io/publication/journal-article/2024_archaedyn/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/journal-article/2024_archaedyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Iberian Peninsula during the green-axe Neolithic craze</title>
+      <link>https://carlosrellan.github.io/publication/journal-article/2024_halle/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/journal-article/2024_halle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Aerial Prospection for Monitoring and Preserving Cultural Heritage in Northeastern Africa</title>
+      <link>https://carlosrellan.github.io/publication/journal-article/aerial-prospection-heritage/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/journal-article/aerial-prospection-heritage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desenredando el caos. Un análisis de la circulación de los adornos de piedra verde durante la Prehistoria Reciente de la Península Ibérica a través de la investigación de redes</title>
+      <link>https://carlosrellan.github.io/publication/journal-article/2023_caos/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/journal-article/2023_caos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

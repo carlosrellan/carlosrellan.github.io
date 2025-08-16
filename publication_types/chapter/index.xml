@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter | Carlos Rellan personal website</title>
+    <link>https://carlosrellan.github.io/publication_types/chapter/</link>
+      <atom:link href="https://carlosrellan.github.io/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chapter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlosrellan.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Chapter</title>
+      <link>https://carlosrellan.github.io/publication_types/chapter/</link>
+    </image>
+    
+    <item>
+      <title>Connections with other populations in the Iberian Peninsula</title>
+      <link>https://carlosrellan.github.io/publication/chapters/2025_oxbow/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/chapters/2025_oxbow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Iberian Peninsula during the green-axe Neolithic craze</title>
+      <link>https://carlosrellan.github.io/publication/journal-article/2024_halle/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://carlosrellan.github.io/publication/journal-article/2024_halle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
