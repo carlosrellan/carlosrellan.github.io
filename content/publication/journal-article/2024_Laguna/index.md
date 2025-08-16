@@ -1,5 +1,6 @@
 ---
 title: "The Role of Aerial Prospection for Monitoring and Preserving Cultural Heritage in Northeastern Africa"
+slug: aerial-prospection-heritage
 authors:
 - D. Laguna-Palma
 - M. Toscano
@@ -22,7 +23,7 @@ publication: "*Heritage, 7* (5)"
 publication_short: ""
 
 
-abstract: Excellent indicators of technology, social organization, exchange patterns, and even beliefs, beads are a topic of research in their own right. Findings made between 2010 and 2011 at the Montelirio tholos burial, part of the Valencina Copper Age mega-site, in south-western Spain, revealed what amounts to the largest single-burial ever-documented assemblage of beads. Furthermore, the Montelirio beads were part of unparalleled beaded attires worn by some of the people buried in the grave, mostly females. A multi-analytical study undertaken over the past 5 years —including a meticulous quantification of the collection, the characterization of the raw materials, radiocarbon dating and chronometric statistical modeling, morphometric analysis, phytolith analysis, experimental work and contextual analysis— reveals several previously unidentified aspects of these remarkable creations. This includes the role of the attires as sumptuary attributes heavily loaded of symbolism, used by a selected group of women of high social significance.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 

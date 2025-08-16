@@ -1,5 +1,6 @@
 ---
 title: "Mining tools from the prehistoric quarries in Serra Llarga (NE Iberia): Preliminary results from lithological and techno-morphological approaches"
+slug: 
 authors:
 - X. Terradas
 - D. Ortega
