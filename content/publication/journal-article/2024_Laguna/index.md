@@ -19,7 +19,7 @@ publishDate: "2024-01-29"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Heritage, 7* (5)"
+publication: "*Heritage, 7* (2)"
 publication_short: ""
 
 
