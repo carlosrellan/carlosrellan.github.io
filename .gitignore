@@ -1,0 +1,30 @@
+# Hugo build output (the site is built by GitHub Actions)
+public/
+resources/
+.hugo_build.lock
+**/assets/jsconfig.json
+
+# Pagefind search index (generated at build time)
+pagefind/
+static/pagefind/
+
+# Node.js
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+._*
+
+# Windows / Linux
+Thumbs.db
+Desktop.ini
+*~
+
+# Logs
+*.log
+npm-debug.log*
