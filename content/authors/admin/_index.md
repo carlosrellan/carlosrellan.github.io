@@ -62,13 +62,13 @@ work:
     company_url: 'https://www.ugr.es'
     company_logo: ''
     summary: Department of Prehistory and Archaeology
-    date_start: 2025-07-01
+    date_start: 2025-06-01
   - position: EMERGIA Scholar
     company_name: Universidad de Granada
     company_url: 'https://www.ugr.es'
     company_logo: 'assets/media/icons/ugr_logo.svg'
     date_start: 2021-09-02
-    date_end: 2025-07-22
+    date_end: 2025-06-01
   - position: Professor Auxiliar Convidado
     company_name: Universidade NOVA de Lisboa
     company_url: 'https://www.unl.pt'
