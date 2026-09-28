@@ -18,12 +18,6 @@ image:
   focal_point: Smart
 
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 The ARPA project -**Computational Analysis of exchange networks in Andalusian Late Prehistory**- (EMERGIA20_00349. 2022-2025) is funded by the Emergia Program, Plan Andaluz de Investigación, Desarrollo e Innovación de la Junta de Andalucía. It aims at fostering a substantial transformation in our understanding of the characteristics, functioning and evolution of the exchange networks that were operative in Southern Iberia between the Late Neolithic and the Copper Age (c. 4200 - 2200 cal. BC), as well as in our knowledge of the socioeconomic processes that explain their emergence and subsequent transformations.

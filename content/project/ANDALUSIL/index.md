@@ -18,12 +18,6 @@ image:
   focal_point: Smart
 
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 The ANDALUSIL project -**Procurement strategies and production processes of sillimanite polished tools during the Late Prehistory of Andalusia**- is funded by the Ayudas para incentivar la Consolidación Investigadora 2022, Programa Estatal para Desarrollar, Atraer y Retener Talento. Plan Estatal de Investigación Científica, Técnica y de Innovación 2021-2023. Plan de Recuperación, Transformación y Resiliencia. Ministerio de Ciencia e Innovación (CNS2022-136083. 2023-2025).
