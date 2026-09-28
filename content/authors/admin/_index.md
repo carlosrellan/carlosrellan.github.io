@@ -62,7 +62,7 @@ work:
     company_url: 'https://www.ugr.es'
     company_logo: ''
     summary: Department of Prehistory and Archaeology
-    # TODO: add date_start (YYYY-MM-DD)
+    date_start: 2025-06-01
   - position: EMERGIA Scholar
     company_name: Universidad de Granada
     company_url: 'https://www.ugr.es'
