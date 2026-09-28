@@ -12,7 +12,7 @@ authors:
 
 author_notes:
 date: "2025-08-15"
-doi: "https://doi.org/10.1016/j.jasrep.2025.105361"
+doi: "10.1016/j.jasrep.2025.105361"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-08-15"
@@ -37,7 +37,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2352409X25003943
-url_cite: 'files/mi-cita.bib'
+url_cite: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

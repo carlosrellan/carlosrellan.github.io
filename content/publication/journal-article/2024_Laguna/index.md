@@ -34,7 +34,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.mdpi.com/2571-9408/7/2/32'
-url_cite: 'files/mi-cita.bib'
+url_cite: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

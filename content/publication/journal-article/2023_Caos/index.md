@@ -9,7 +9,7 @@ authors:
 
 author_notes:
 date: "2023-12-29"
-doi: "https://doi.org/10.30827/cpag.v33i0.28274"
+doi: "10.30827/cpag.v33i0.28274"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-29"

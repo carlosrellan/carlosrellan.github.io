@@ -33,7 +33,7 @@ featured: true
 
 links:
 url_pdf: ''
-url_cite: 'files/mi-cita.bib'
+url_cite: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

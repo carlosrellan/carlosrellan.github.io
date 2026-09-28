@@ -48,7 +48,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://www.science.org/doi/10.1126/sciadv.adp1917
-url_cite: 'files/mi-cita.bib'
+url_cite: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
