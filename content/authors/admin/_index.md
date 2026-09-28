@@ -31,13 +31,11 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.es/citations?user=AbCOq58AAAAJ&hl=es   
   - icon: academicons/researchgate
-    url: https://scholar.google.es/citations?user=AbCOq58AAAAJ&hl=es
+    url: https://www.researchgate.net/profile/Carlos-Rodriguez-Rellan
   - icon: academicons/zotero
     url: https://www.zotero.org/reycarmesi
   - icon: academicons/figshare
-    url: https://figshare.com/account/profile
-  - icon: academicons/impactstory
-    url: https://profiles.impactstory.org/u/0000-0001-5884-6592
+    url: https://figshare.com/authors/Carlos_Rodriguez-Rellan/412071
 
 interests:
   - Lithic industries
@@ -59,6 +57,12 @@ education:
     date_end: 2002-10-15
 
 work:
+  - position: Associate Professor of Prehistory
+    company_name: Universidad de Granada
+    company_url: 'https://www.ugr.es'
+    company_logo: ''
+    summary: Department of Prehistory and Archaeology
+    # TODO: add date_start (YYYY-MM-DD)
   - position: EMERGIA Scholar
     company_name: Universidad de Granada
     company_url: 'https://www.ugr.es'
@@ -81,14 +85,14 @@ work:
     company_name: CNRS (CReAAH, Université de Nantes)
     company_url: 'https://creaah.cnrs.fr'
     company_logo: ''
-    date_start: 2015-11-15
-    date_end: 2015-02-15
+    date_start: 2015-02-15
+    date_end: 2015-11-15
   - position: Fulbright Visiting Scholar
     company_name: Arizona State University
     company_url: 'https://www.asu.edu'
     company_logo: ''
-    date_start: 2014-01-14
-    date_end: 2012-01-15
+    date_start: 2012-01-15
+    date_end: 2014-01-14
     
 
 
