@@ -1,17 +1,15 @@
 ---
-title: "The Role of Aerial Prospection for Monitoring and Preserving Cultural Heritage in Northeastern Africa"
-slug: aerial-prospection-heritage
+title: "Origen y primer desarrollo del fenómeno tumular gallego. Rescatando evidencias en un océano de incertidumbres"
+slug: galician-burial-mound-origins
 authors:
-- D. Laguna-Palma
-- M. Toscano
 - admin
 
 author_notes:
-date: "2024-01-29"
-doi: "10.3390/heritage7020032"
+date: "2026-09-22"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-29"
+publishDate: "2026-09-22"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,21 +17,23 @@ publishDate: "2024-01-29"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Heritage, 7* (2)"
+publication: "*Cypsela*, 24, 17–29"
 publication_short: ""
 
-
-abstract: 
+abstract: This paper provides a comprehensive overview of the origins of the Galician mound phenomenon, which is one of the most numerically significant in Southwestern Europe. The article outlines some of the main issues affecting these sites and briefly describes their most important features.
 
 # Summary. An optional shortened abstract.
 summary: 
-tags:
-featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://www.mdpi.com/2571-9408/7/2/32'
+tags:
+featured: true
+
+# PDF: the file `2026_Cypsela.pdf` in this folder is linked automatically
+# (Hugo Blox links `<folder name>.pdf` as the PDF button).
+links:
+- name: Journal
+  url: https://raco.cat/index.php/Cypsela/article/view/1500000000003473
+url_pdf: ''
 url_cite: ''
 url_code: ''
 url_dataset: ''
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 5. Map of the Marmarica region displaying the sites documented within the framework of the PERAIA project, categorized according to their “Level of Risk”.'
+  caption: 'Fig. 4. Summed probability distribution of radiocarbon dates from contexts of high or medium reliability (n = 48) available for Galician burial mounds.'
   focal_point: ""
   preview_only: false
 
@@ -62,5 +62,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
