@@ -14,7 +14,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: 'My office hours (*tutorías*) and university contact details are listed on my [staff page at the University of Granada](https://www.ugr.es/personal/carlos-cristian-rodriguez-rellan).'
+      text: 'My office hours (*tutorías*) and university contact details are listed on my <a href="https://www.ugr.es/personal/carlos-cristian-rodriguez-rellan" target="_blank" rel="noopener" class="underline font-semibold text-primary-700 dark:text-primary-300">staff page at the University of Granada</a>.'
       filters:
         folders:
           - teaching
