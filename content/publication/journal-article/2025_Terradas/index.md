@@ -36,14 +36,14 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2352409X25003943
+url_pdf: 'https://www.researchgate.net/publication/394517523'
 url_cite: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.sciencedirect.com/science/article/pii/S2352409X25003943'
 url_video: ''
 
 # Featured image

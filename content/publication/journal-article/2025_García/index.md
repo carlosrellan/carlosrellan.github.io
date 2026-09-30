@@ -47,14 +47,14 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.science.org/doi/10.1126/sciadv.adp1917
+url_pdf: 'https://www.researchgate.net/publication/388496755'
 url_cite: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.science.org/doi/10.1126/sciadv.adp1917'
 url_video: ''
 
 # Featured image

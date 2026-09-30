@@ -34,14 +34,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://revistaseug.ugr.es/index.php/cpag/article/view/28274
+url_pdf: 'https://www.researchgate.net/publication/376906801'
 url_cite: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://revistaseug.ugr.es/index.php/cpag/article/view/28274'
 url_video: ''
 
 # Featured image

@@ -33,7 +33,7 @@ featured: true
 links:
 - name: Journal
   url: https://raco.cat/index.php/Cypsela/article/view/1500000000003473
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/publication/414615543'
 url_cite: ''
 url_code: ''
 url_dataset: ''

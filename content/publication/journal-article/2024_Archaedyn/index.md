@@ -30,14 +30,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://tp.revistas.csic.es/index.php/tp/article/view/1036
+url_pdf: 'https://www.researchgate.net/publication/388752673'
 url_cite: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://tp.revistas.csic.es/index.php/tp/article/view/1036'
 url_video: ''
 
 # Featured image

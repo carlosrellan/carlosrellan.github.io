@@ -33,14 +33,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.mdpi.com/2571-9408/7/2/32'
+url_pdf: 'https://www.researchgate.net/publication/377845993'
 url_cite: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.mdpi.com/2571-9408/7/2/32'
 url_video: ''
 
 # Featured image
