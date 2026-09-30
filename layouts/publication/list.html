@@ -1,0 +1,137 @@
+{{/*
+  Publication list with client-side filters (text, type, year).
+  Based on layouts/_default/list.html from Hugo Blox blox-tailwind v0.3.1.
+  Changes: no pagination on this section; filter bar and inline script added.
+  To revert, delete this file.
+*/}}
+{{ define "main" }}
+
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">{{ .Title }}</h1>
+    {{ .Content }}
+  </article>
+</div>
+
+{{ $view := .Params.view | default "card" }}
+{{ $block := . }}
+{{ $pages := .Pages.ByDate.Reverse }}
+
+{{/* Types present in the section, in a fixed display order. */}}
+{{ $type_labels := slice
+  (dict "key" "article-journal" "label" "Articles")
+  (dict "key" "chapter" "label" "Chapters")
+  (dict "key" "paper-conference" "label" "Conference papers")
+  (dict "key" "book" "label" "Books")
+  (dict "key" "thesis" "label" "Thesis")
+  (dict "key" "report" "label" "Reports")
+  (dict "key" "article" "label" "Preprints")
+}}
+{{ $present := slice }}
+{{ range $pages }}
+  {{ with .Params.publication_types }}{{ $present = $present | append (index . 0) }}{{ end }}
+{{ end }}
+{{ $present = $present | uniq }}
+
+{{ $years := slice }}
+{{ range $pages }}{{ $years = $years | append (.Date.Format "2006") }}{{ end }}
+{{ $years = $years | uniq }}
+
+<style>
+  .pubfilter { width: 100%; max-width: 48rem; margin: 2.5rem auto 0; padding: 0 1rem; box-sizing: border-box; font-size: 0.95rem; }
+  .pubfilter__row { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-bottom: 0.75rem; }
+  .pubfilter input[type="search"], .pubfilter select {
+    border: 1px solid rgba(128,128,128,0.45); border-radius: 0.375rem; padding: 0.45rem 0.7rem;
+    background: transparent; color: inherit; font: inherit;
+  }
+  .pubfilter input[type="search"] { flex: 1 1 16rem; min-width: 0; }
+  .pubfilter select option { color: #111; }
+  .pubfilter__btn {
+    border: 1px solid rgba(128,128,128,0.45); border-radius: 999px; padding: 0.3rem 0.8rem;
+    background: transparent; color: inherit; font: inherit; cursor: pointer;
+  }
+  .pubfilter__btn[aria-pressed="true"] { background: currentColor; }
+  .pubfilter__btn[aria-pressed="true"] span { color: #fff; }
+  .dark .pubfilter__btn[aria-pressed="true"] span { color: #111; }
+  .pubfilter__count { opacity: 0.7; font-size: 0.85rem; }
+  .pubfilter input:focus-visible, .pubfilter select:focus-visible, .pubfilter__btn:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+  .pf-item[hidden] { display: none; }
+</style>
+
+<div class="flex flex-col items-center">
+
+  <form id="pubfilter" class="pubfilter" role="search" aria-label="Filter publications" hidden onsubmit="return false;">
+    <div class="pubfilter__row">
+      <label for="pf-q" class="sr-only">Search publications</label>
+      <input id="pf-q" type="search" placeholder="Search by title, author or journal…" autocomplete="off">
+      <label for="pf-year" class="sr-only">Year</label>
+      <select id="pf-year">
+        <option value="">All years</option>
+        {{ range $years }}<option value="{{ . }}">{{ . }}</option>{{ end }}
+      </select>
+    </div>
+    <div class="pubfilter__row" role="group" aria-label="Publication type">
+      <button type="button" class="pubfilter__btn" data-pf-type="all" aria-pressed="true"><span>All</span></button>
+      {{ range $type_labels }}
+        {{ if in $present .key }}
+      <button type="button" class="pubfilter__btn" data-pf-type="{{ .key }}" aria-pressed="false"><span>{{ .label }}</span></button>
+        {{ end }}
+      {{ end }}
+    </div>
+    <p id="pf-count" class="pubfilter__count" aria-live="polite"></p>
+  </form>
+
+  {{ partial "functions/render_view" (dict "fragment" "start" "page" $block "item" . "view" $view) }}
+
+  {{ range $index, $item := $pages }}
+  <div class="pf-item" data-type="{{ with $item.Params.publication_types }}{{ index . 0 }}{{ end }}" data-year="{{ $item.Date.Format "2006" }}">
+    {{ partial "functions/render_view" (dict "page" $item "item" $item "view" $view "index" $index) }}
+  </div>
+  {{ end }}
+
+  {{ partial "functions/render_view" (dict "fragment" "end" "page" $block "item" . "view" $view) }}
+
+</div>
+
+<script>
+(function () {
+  var form = document.getElementById('pubfilter');
+  if (!form) return;
+  var q = document.getElementById('pf-q');
+  var year = document.getElementById('pf-year');
+  var count = document.getElementById('pf-count');
+  var buttons = Array.prototype.slice.call(form.querySelectorAll('[data-pf-type]'));
+  var items = Array.prototype.slice.call(document.querySelectorAll('.pf-item'));
+  var type = 'all';
+  function norm(s) {
+    return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  }
+  items.forEach(function (el) { el.setAttribute('data-text', norm(el.textContent)); });
+  function apply() {
+    var terms = norm(q.value).trim().split(/\s+/).filter(Boolean);
+    var shown = 0;
+    items.forEach(function (el) {
+      var text = el.getAttribute('data-text');
+      var ok = (type === 'all' || el.getAttribute('data-type') === type) &&
+               (!year.value || el.getAttribute('data-year') === year.value) &&
+               terms.every(function (t) { return text.indexOf(t) !== -1; });
+      el.hidden = !ok;
+      if (ok) shown++;
+    });
+    count.textContent = 'Showing ' + shown + ' of ' + items.length + ' publications';
+  }
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () {
+      type = b.getAttribute('data-pf-type');
+      buttons.forEach(function (o) { o.setAttribute('aria-pressed', o === b ? 'true' : 'false'); });
+      apply();
+    });
+  });
+  q.addEventListener('input', apply);
+  year.addEventListener('change', apply);
+  form.hidden = false;
+  apply();
+})();
+</script>
+
+{{ end }}
