@@ -27,3 +27,6 @@ main:
   - name: Apps and Code
     url: apps/
     weight: 50
+  - name: Contact
+    url: contact/
+    weight: 60
